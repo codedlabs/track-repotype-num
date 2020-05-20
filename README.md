@@ -1,8 +1,9 @@
-### [READ ME & DELETE]: 
-*Please make sure to follow the naming convention of the repos titles
+# [READ ME & DELETE]: 
+
+Please make sure to follow the naming convention of the repos titles
 Repo title should be `track-hw/cw-number` for example: 
-ios-hw-2 or android-hw-6 or we-cw-4*
-------------------------------------
+ios-hw-2 or android-hw-6 or we-cw-4
+------------------------------------delete all the above part after reading
 
 # واجب تمرين - رقم
 ## اشرح الفكرة العامة للواجب
